@@ -2,3 +2,5 @@
 
 # 🔥 Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=chitkoo&theme=buefy-dark&hide_border=true)](https://git.io/streak-stats)
+
+# 💻 Profile Stats
