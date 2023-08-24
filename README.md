@@ -4,7 +4,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=chitkoo&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
 
 # 💻 Profile Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chitkoo&show_icons=true&theme=material-palenight)](https://github.com/chitkoo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chitkoo&show_icons=true&theme=material-palenight&hide_border=true)](https://github.com/chitkoo/github-readme-stats)
 
 # Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitkoo)](https://github.com/anuraghazra/github-readme-stats)
