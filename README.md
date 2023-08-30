@@ -3,10 +3,7 @@
 # 🔥 Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=chitkoo&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
 
-# 💻 Profile Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chitkoo&show_icons=true&theme=material-palenight&hide_border=true)](https://github.com/chitkoo/github-readme-stats)
-
-# Languages
+# 💻 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitkoo&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chitkoo&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
